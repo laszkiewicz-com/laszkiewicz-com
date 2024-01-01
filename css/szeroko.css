@@ -1,0 +1,29 @@
+div.glowka {
+	font-size: 150%; 
+	transition: 0.2s;
+}
+
+img.ikonka {
+	width: 5%;
+}
+
+div.tlo-intro, div.tlo-kontakt {
+	background-attachment: fixed;
+}
+
+div.panelik {
+	text-align: justify;
+}
+
+div.intro p {
+	margin: 2%;
+}
+
+div.kontakt {
+	letter-spacing: 5px;
+}
+
+img.portrecik {
+	width: 70px;
+	transition: 0.2s;
+}

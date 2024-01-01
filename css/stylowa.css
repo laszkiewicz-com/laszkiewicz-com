@@ -1,0 +1,2 @@
+@import "szeroko.css" only screen and (min-device-width: 1025px);
+@import "wasko.css" only screen and (max-device-width: 1024px);

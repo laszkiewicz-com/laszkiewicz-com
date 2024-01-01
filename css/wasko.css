@@ -1,0 +1,22 @@
+div.glowka {
+	font-size: 100%; 
+}
+
+img.ikonka {
+	width: 10%;
+}
+div.tlo-intro, div.tlo-kontakt {
+	background-attachment: scroll;
+}
+
+div.panelik {
+	text-align: left;
+}
+
+div.intro p, div.kontakt p {
+	margin: 5px;
+}
+
+img.portrecik {
+	width: 50px;
+}
