@@ -1,1 +1,2 @@
-"# laszkiewicz-com" 
+# laszkiewicz.com
+Simplistic personal website.
