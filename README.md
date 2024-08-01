@@ -1,1 +1,1 @@
-"# laszkiewicz-com" 
+#laszkiewicz.com
